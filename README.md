@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Привіт 👋, я Артем</h1>
+<h3 align="center">Починаю свій шлях у програмуванні</h3>
 
-<!--
-**ArtemK2007/ArtemK2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Зараз вивчаю: **Python, C, Flask, HTML, CSS**
+- 🤖 Пишу Telegram-ботів
+- 🎨 Вивчаю основи фронтенд-розробки з HTML і CSS
+---
 
-Here are some ideas to get you started:
+### 🧰 Мови та інструменти:
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📈 GitHub статистика:
+![Artem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtemK2007&show_icons=true&theme=tokyonight)
+
+---
+
+### 🛠 Мої проєкти:
+- [☁️ Бот погоди на Python](https://github.com/ArtemK2007/WeatherBot)
+- [📘 Бот для підготовки до НМТ](https://github.com/ArtemK2007/NmtTgBot.py) *В процесі*
+- [📘 Бот для збереження конспектів](https://github.com/ArtemK2007/TgBot/blob/main/main.py) *В процесі*
+
+---
+
